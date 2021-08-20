@@ -1,0 +1,17 @@
+#topo{
+    background-color: #5e376d;
+    height: 100px;
+}
+h1{
+    color: white;
+}
+#sub{
+    color: #0b0909;
+    line-height: 0.35;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#corpo{
+    background-color: #ececec;
+    height: 565px;
+}
